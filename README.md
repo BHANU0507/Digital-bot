@@ -15,10 +15,10 @@ So, To create digital bot we wnt some python packges to be intalled in our compu
 
 
     To install it : pip install wikipedia
-    To known about it go : <a href"https://www.geeksforgeeks.org/wikipedia-module-in-python/">clickhere</a>
+    To known about it go : <a href"https://www.geeksforgeeks.org/wikipedia-module-in-python/"clickhere</a>
 
-4.<a href"https://pypi.org/project/pyttsx3/">pyttsx3</a>
+4.<a href"https://pypi.org/project/pyttsx3/"pyttsx3</a>
 
     To install it : pip install pyttsx3
-    To known about it go : <a href"https://www.geeksforgeeks.org/wikipedia-module-in-python/">clickhere</a>
+    To known about it go : <a href"https://www.geeksforgeeks.org/wikipedia-module-in-python/"clickhere</a>
    
